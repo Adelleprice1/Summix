@@ -1,5 +1,6 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
+This package is a copy of that held at https://github.com/hendriau/Summix. If using Summix2, please use the version at https://github.com/hendriau/Summix, as it is the most current.
 
 # Summix2
 
